@@ -786,7 +786,7 @@ More information on this device available at [Muyu Wiki (Xiaomi Pad 7 Pro on SM8
 
 <img align="right" src="Resources/Pictures/OnePlus-12R.png" width="350" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** aston <br>
 **Models:** 2
 
